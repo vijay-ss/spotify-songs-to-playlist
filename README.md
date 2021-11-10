@@ -18,3 +18,7 @@ Links to the existing projects:
 # End Result
 
 ![](playlist.png)
+
+# Limitations
+- A limit of 100 tracks can be sent for any given post request
+- No official way to delete all songs within a playlist using the API
